@@ -5,5 +5,3 @@ resources:
   - namespace.yaml
   - repository.yaml
   - release.yaml
-  - podinfo-policy.yaml
-  - podinfo-registry.yaml
